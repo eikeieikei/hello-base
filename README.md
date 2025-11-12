@@ -1,2 +1,1 @@
-# hello-base
-# hello-base! I`m a builder
+This is a commit for BASE Builders & Founders task.
